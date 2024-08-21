@@ -1,2 +1,3 @@
-##Project: Mynta Sales Data
-##Tool Used: Power BI 
+## Project: Mynta Sales Data
+
+## Tool Used: Power BI 
