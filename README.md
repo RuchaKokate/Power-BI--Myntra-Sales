@@ -1,4 +1,4 @@
-## Project: Mynta Sales Data
+## Project: Mynta Sales Analysis
 
 ## Tool Used: Power BI 
 
